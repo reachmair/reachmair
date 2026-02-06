@@ -1,7 +1,7 @@
 # 🚀 AI/ML Architect & Full-Stack Engineer
 ### *Bridging Deep Learning Research with Production-Grade Software*
 
-I am an **AI/ML Engineer and Full-Stack Developer** with over a decade of experience building intelligent systems from the ground up. I don't just train models; I build the infrastructure that serves them, the APIs that power them, and the interfaces that make them accessible to users.
+I am an **AI/ML Engineer and Full-Stack Developer** with 10+ of experience building intelligent systems from the ground up. I don't just train models; I build the infrastructure that serves them, the APIs that power them, and the interfaces that make them accessible to users.
 
 ---
 
