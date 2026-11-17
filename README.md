@@ -11,9 +11,6 @@ MSc Applied Data Science, University of Connecticut &nbsp;·&nbsp; AWS Certified
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reachmair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reachmair&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 </div>
 
 <br>
