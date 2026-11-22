@@ -2,14 +2,16 @@
 
 <h1>Mair Ahmed</h1>
 
-<p><strong>AI/ML Product Engineer &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Mobile</strong></p>
+<p><strong>AI/ML Product Engineer  ·  Full-Stack  ·  Mobile</strong></p>
 
 <p>
 8 years shipping production AI systems and full-stack products from the ground up.<br>
-MSc Applied Data Science, University of Connecticut &nbsp;·&nbsp; AWS Certified ML Specialist
+MSc Applied Data Science, University of Connecticut  ·  AWS Certified ML Specialist
 </p>
 
 <br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mairahmed)
 
 </div>
 
